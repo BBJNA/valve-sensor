@@ -32,7 +32,7 @@
 
 #include "ti_msp_dl_config.h"
 
-#define DELAY (16000000)
+#define DELAY (8000000)
 
 int main(void)
 {
