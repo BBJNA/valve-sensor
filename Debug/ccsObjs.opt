@@ -1,0 +1,9 @@
+"./valve-sensor.o"
+"./syscfg/ti_msp_dl_config.o"
+"./gcc/startup_mspm0l1306_gcc.o"
+-Wl,-T"../mspm0l1306.lds"
+"C:/ti/mspm0_sdk_1_10_01_05/source/ti/driverlib/lib/gcc/m0p/mspm0l11xx_l13xx/driverlib.a"
+-lgcc
+-lc
+-lm
+-lnosys
